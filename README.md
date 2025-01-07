@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Vias de contacto
+
+![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsebastian-celeita-caicedo%2F&up_message=up_message)
+
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/sceleita16/sceleita16)
